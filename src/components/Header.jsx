@@ -131,14 +131,11 @@ const Header = ({ contactFormOpen, openContactForm, closeContactForm }) => {
         </nav>
         <div className="pt-4 border-t border-gray-200 dark:border-gray-700">
           <div className="flex space-x-5">
-            <a href="#">
+            <a href="https://github.com/Suryansh23102002">
               <FiGithub className="h-6 w-6 text-gray-300" />
             </a>
-            <a href="#">
+            <a href="https://www.linkedin.com/in/suryanshhpandey/">
               <FiLinkedin className="h-6 w-6 text-gray-300" />
-            </a>
-            <a href="#">
-              <FiInstagram className="h-6 w-6 text-gray-300" />
             </a>
           </div>
           <button
