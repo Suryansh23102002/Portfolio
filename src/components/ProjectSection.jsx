@@ -13,7 +13,7 @@ const ProjectSection = () => {
   const projectImage = [
     { id: 1, title: 'PingUp', imageSrc: '/images/project-1.png', url: 'https://pingup-lac.vercel.app/' },
     { id: 2, title: 'Gemini Clone', imageSrc: '/images/project-2.png', url: 'https://gemini-clone-blush-ten.vercel.app/' },
-    { id: 3, title: 'Non Germinous Lump Detection', imageSrc: '/images/project-3.png', url: 'https://lumpdetection.example.com' },
+    { id: 3, title: 'Agency AI', imageSrc: '/images/project-3.png', url: 'https://lumpdetection.example.com' },
     { id: 4, title: 'skiper ui', imageSrc: '/images/project-4.png', url: 'https://skiper-next.vercel.app/' },
   ]
 
